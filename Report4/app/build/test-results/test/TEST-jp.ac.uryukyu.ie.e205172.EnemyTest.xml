@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jp.ac.uryukyu.ie.e205172.EnemyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-09T03:10:04" hostname="Ra." time="0.035">
+  <properties/>
+  <testcase name="attackTest()" classname="jp.ac.uryukyu.ie.e205172.EnemyTest" time="0.035"/>
+  <system-out><![CDATA[デモ勇者のHPは100。攻撃力は100です。
+スライムもどきのHPは10。攻撃力は100です。
+デモ勇者の攻撃！スライムもどきに61のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
